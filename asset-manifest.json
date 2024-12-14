@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webiflow/static/css/main.ae42ac5f.css",
+    "main.js": "/webiflow/static/js/main.ad0143d2.js",
+    "index.html": "/webiflow/index.html",
+    "main.ae42ac5f.css.map": "/webiflow/static/css/main.ae42ac5f.css.map",
+    "main.ad0143d2.js.map": "/webiflow/static/js/main.ad0143d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.ad0143d2.js"
+  ]
+}
