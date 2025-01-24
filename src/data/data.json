@@ -14,7 +14,7 @@
     ],
   "Why": [
       "Creative Work",
-      "Modurate content",
+      "Moderate content",
       "Give what you imagine",
       "Styling your way"
     ]
@@ -23,7 +23,8 @@
     {
       "title": "Notes Management",
       "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/portfolio/01-small.jpg",
+      "hyperlink":"https://chennururahul143.github.io/webiflow/"
     },
     {
       "title": "Food business",
